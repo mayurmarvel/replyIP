@@ -25,7 +25,7 @@ A DeadSimple cloudflare worker that simply replies your IP address
 
 ## Issues
 
-⚠ Sometimes responds with ipv4 address due to the limitations of CF Worker
+⚠ Sometimes responds with ipv6 address due to the limitations of CF Worker
 
 thanks <3
 
